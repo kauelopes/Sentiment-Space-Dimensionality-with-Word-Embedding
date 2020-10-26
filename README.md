@@ -1,0 +1,3 @@
+# Sentiment Space Dimensionality with Word Embedding
+
+The task of recognizing and classifying emotions has been challenging not only on the part of therapists but also by researchers in the analysis of feelings since it is difficult to see and explain the dimensionality of emotions, as well as how they separate or mix. The present work presents a new model for measuring emotions based on the combination of a set of pre-trained Word-Embbedings models with different techniques and information sources. We discussed the number of dimensions sufficient to represent 75 emotions in the multidimensional space through a stress assessment. As main contribution, we show a new circumflex model independent of domain and culture, as well as the distribution of emotions in space.
